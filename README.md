@@ -1,6 +1,6 @@
 # CoinCrypto
 CoinCrypto 
-CoinCrypto is a fundamental UIKit app with tableview displaying API data from CoinGecko.com  
+CoinCrypto is a fundamental UIKit app with a tableview displaying API data from CoinGecko.com  
 ## Teck Stack
 - UIKit
 - MCV architecture
